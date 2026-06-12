@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://recycling-plastic-en.pages.dev/sitemap.xml
